@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+keras-facenet
+mtcnn
+numpy
+opencv-python-headless
+pymongo
+scikit-learn
+gunicorn
+tensorflow
